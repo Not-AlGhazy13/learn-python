@@ -10,4 +10,5 @@ Lorem Ipsum
 - mangga
 
 ## logo 
-![logo markdown]https://th.bing.com/th/id/OIP.Yyngtk-UFkPstcQqAdhA3AHaE8?w=250&h=180&c=7&r=0&o=5&pid=1.7
+![logo markdown]![image](https://github.com/Not-AlGhazy13/learn-python/assets/168884732/a45f7d67-f9d5-4387-a429-761cde649f55)
+
