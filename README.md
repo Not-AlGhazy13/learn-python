@@ -10,4 +10,4 @@ Lorem Ipsum
 - mangga
 
 ## logo 
-![logo markdown]https://th.bing.com/th/id/OIP.Yyngtk-UFkPstcQqAdhA3AHaE8?w=267&h=180&c=7&r=0&o=5&pid=1.7
+![logo markdown]https://th.bing.com/th/id/OIP.Yyngtk-UFkPstcQqAdhA3AHaE8?w=250&h=180&c=7&r=0&o=5&pid=1.7
