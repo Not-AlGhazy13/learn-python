@@ -14,9 +14,9 @@ Lorem Ipsum
 
 ## table
 |no|nama|
-|'''|'''|
+|---|---|
 |1|ahmad|
 |2|budi|
 |3|dodi|
-```python
+'''python
 
