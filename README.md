@@ -12,3 +12,10 @@ Lorem Ipsum
 ## logo 
 ![logo markdown]![image](https://github.com/Not-AlGhazy13/learn-python/assets/168884732/a45f7d67-f9d5-4387-a429-761cde649f55)
 
+## table
+[no][nama]
+['''][''']
+[1][ahmad]
+[2][dodi]
+[3][budi]
+
